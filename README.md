@@ -3,12 +3,12 @@
 Application de **numérologie & horoscope** de bien-être (marque Bengacoon).
 
 Ce dépôt public héberge la **présentation** de l'application, sa **politique de
-confidentialité**, le **manifeste de mise à jour** (`latest.json`) interrogé par
-l'application, et les **binaires** publiés dans les *Releases*.
-**Le code source n'est pas public.**
+confidentialité** et les **notes de version**.
+**Le code source et les binaires ne sont pas publics** — l'application se télécharge
+uniquement depuis les stores officiels.
 
 - 📘 **[Politique de confidentialité](https://jdviallat.github.io/numerocoon/)**
-- 📦 **[Dernière version (Releases)](https://github.com/jdviallat/numerocoon/releases/latest)**
+- 📝 **[Notes de version](https://github.com/jdviallat/numerocoon/releases)**
 
 ## L'application
 
@@ -29,25 +29,24 @@ l'application, et les **binaires** publiés dans les *Releases*.
 
 ## 📱 Android
 
-Téléchargez le fichier `.apk` depuis la
-**[dernière release](https://github.com/jdviallat/numerocoon/releases/latest)**, puis
-ouvrez-le sur votre téléphone. Android demandera d'autoriser l'installation depuis cette
-source : acceptez, puis lancez l'installation.
+L'application se télécharge sur **Google Play** :
+[Numerocoon sur le Play Store](https://play.google.com/store/apps/details?id=com.bengacoon.numerocoon)
+*(publication en cours — le lien sera actif dès la mise en ligne).*
 
-- L'application vous prévient automatiquement lorsqu'une nouvelle version est publiée
-  ici. Elle ne s'installe jamais toute seule : vous gardez la main.
+Les mises à jour sont gérées automatiquement par Google Play.
 
 ## 🍎 iOS
 
-La version iOS est **en préparation**. L'application est développée pour les deux
-plateformes ; la distribution (TestFlight, puis App Store) fera l'objet d'une prochaine
-étape. Les liens seront publiés ici et dans les *Releases*.
+L'application arrive sur l'**App Store** — publication en préparation. Le lien sera
+ajouté ici dès la mise en ligne.
+
+Les mises à jour seront gérées automatiquement par l'App Store.
 
 ## Mises à jour
 
-Le fichier [`latest.json`](latest.json) décrit la dernière version publiée (numéro de
-version, lien de téléchargement, nouveautés). L'application le consulte au lancement pour
-vous proposer la mise à jour, sans transmettre la moindre donnée personnelle.
+Les nouveautés de chaque version sont publiées dans les
+[notes de version](https://github.com/jdviallat/numerocoon/releases). L'installation et
+la mise à jour passent exclusivement par les stores officiels (Google Play / App Store).
 
 ---
 

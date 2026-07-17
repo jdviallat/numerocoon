@@ -1,6 +1,6 @@
 {
   "version": "0.13.0",
-  "url": "https://github.com/jdviallat/numerocoon/releases/download/v0.13.0/Numerocoon-0.13.0.apk",
+  "url": "https://play.google.com/store/apps/details?id=com.bengacoon.numerocoon",
   "notes": "Roue des réglages en haut à droite, signature « Numerocoon par Bengacoon » sur l'accueil, et application entièrement traduite en 9 langues.",
   "obligatoire": false,
   "minVersion": "0.1.0"
