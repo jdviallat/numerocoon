@@ -9,9 +9,8 @@ carte du ciel simplifiée, une synthèse qui relie les deux, et une guidance au 
 appareil**.
 
 Ce dépôt public héberge la **présentation** de l'application, sa **politique de
-confidentialité** et ses **notes de version**.
-**Le code source et les binaires ne sont pas publics** — l'application se télécharge
-uniquement depuis les stores officiels.
+confidentialité**, ses **notes de version** et l'**APK Android en téléchargement direct**.
+Le **code source n'est pas public**.
 
 - 📘 **[Politique de confidentialité](https://jdviallat.github.io/numerocoon/)**
 - 📝 **[Journal des versions (CHANGELOG)](CHANGELOG.md)** · **[Notes de version GitHub](https://github.com/jdviallat/numerocoon/releases)**
@@ -66,26 +65,31 @@ bien-être de la galaxie Bengacoon.
 
 ## 📱 Android
 
-L'application se télécharge sur **Google Play** :
-[Numerocoon sur le Play Store](https://play.google.com/store/apps/details?id=com.bengacoon.numerocoon)
-*(publication en cours — le lien sera actif dès la mise en ligne).*
+Deux façons d'installer Numerocoon sur Android — **même application, même version** :
 
-Les mises à jour sont gérées automatiquement par Google Play.
+1. **Google Play** *(recommandé)* :
+   [Numerocoon sur le Play Store](https://play.google.com/store/apps/details?id=com.bengacoon.numerocoon)
+   *(publication en cours — le lien sera actif dès la mise en ligne)*. Les mises à jour
+   sont gérées automatiquement par Google Play.
+2. **APK en téléchargement direct** :
+   **[⬇ Télécharger la dernière version (GitHub Releases)](https://github.com/jdviallat/numerocoon/releases/latest)**.
+   Cette version vérifie elle-même les mises à jour et vous propose de télécharger la
+   nouvelle version depuis ce dépôt. *(Activez « Sources inconnues » pour installer un APK
+   hors du Play Store.)*
 
 ## 🍎 iOS
 
 L'application arrive sur l'**App Store** — publication en préparation. Le lien sera
-ajouté ici dès la mise en ligne.
-
-Les mises à jour seront gérées automatiquement par l'App Store.
+ajouté ici dès la mise en ligne. Les mises à jour seront gérées par l'App Store.
 
 ---
 
 ## Mises à jour
 
 Les nouveautés de chaque version sont détaillées dans le
-**[journal des versions](CHANGELOG.md)**. L'installation et la mise à jour passent
-exclusivement par les stores officiels (Google Play / App Store).
+**[journal des versions](CHANGELOG.md)**. Chaque version de l'application vérifie
+elle-même s'il en existe une plus récente : la version **Play** renvoie vers le Play
+Store, la version **APK direct** propose de télécharger le nouvel APK ici même.
 
 ---
 

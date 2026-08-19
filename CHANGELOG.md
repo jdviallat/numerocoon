@@ -6,6 +6,22 @@ sans publicité, et disponible en **9 langues** (fr, en, de, it, pt, es, sv, no,
 
 ---
 
+## [0.15.0] — Biorythmes, Découvrir & rapport PDF
+
+- **Biorythmes** : vos trois cycles du jour (physique, émotionnel, intellectuel)
+  comptés depuis votre naissance, avec barres, jours critiques et courbe des
+  prochains jours.
+- **Découvrir** : une rubrique pédagogique qui explique simplement tout ce que
+  calcule l'app (numérologie, cycles, grille d'inclusion, astrologie, synthèse).
+- **Rapport complet en PDF** : exportez tout votre thème (numérologie, astrologie,
+  synthèse, année personnelle) dans un beau document à garder ou partager.
+- Ces nouveautés sont disponibles dans les **9 langues**.
+
+## [0.14.0] — Parité iOS / Android
+
+- Alignement des versions iOS et Android sur le même numéro et préparation de la
+  distribution sur les deux plateformes.
+
 ## [0.13.0] — Réglages harmonisés & signature de marque
 
 - **Roue crantée ⚙︎** en haut à droite de chaque écran : accès direct aux Réglages,
