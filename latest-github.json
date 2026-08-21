@@ -1,7 +1,7 @@
 {
-  "version": "0.16.0",
-  "url": "https://github.com/jdviallat/numerocoon/releases/download/v0.16.0/Numerocoon-0.16.0.apk",
-  "notes": "Nouveautés : carte du jour à partager, roue du thème, prévisions sur 12 mois, tendances du journal, sauvegarde/restauration, taille du texte réglable et tour de bienvenue.",
+  "version": "0.17.0",
+  "url": "https://github.com/jdviallat/numerocoon/releases/download/v0.17.0/Numerocoon-0.17.0.apk",
+  "notes": "Nouveau : widget écran d'accueil (Android) avec votre nombre du jour. Ajoutez-le en restant appuyé sur l'écran d'accueil > Widgets > Numerocoon.",
   "obligatoire": false,
   "minVersion": "0.1.0"
 }

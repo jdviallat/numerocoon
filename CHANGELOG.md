@@ -6,6 +6,14 @@ sans publicité, et disponible en **9 langues** (fr, en, de, it, pt, es, sv, no,
 
 ---
 
+## [0.17.0] — Widget écran d'accueil
+
+- 📱 **Widget Android** : posez votre **nombre du jour** directement sur l'écran
+  d'accueil de votre téléphone. Restez appuyé sur l'écran d'accueil →
+  **Widgets** → **Numerocoon**, puis glissez le widget. Un appui l'ouvre dans l'app.
+- Le widget se met à jour tout seul chaque jour ; il fonctionne même sans ouvrir
+  l'application.
+
 ## [0.16.0] — Carte à partager, roue, prévisions & plus
 
 - 🎴 **Carte du jour à partager** : une belle image de votre journée (nombre, signe,
