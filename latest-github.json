@@ -1,7 +1,7 @@
 {
-  "version": "0.15.0",
-  "url": "https://github.com/jdviallat/numerocoon/releases/download/v0.15.0/Numerocoon-0.15.0.apk",
-  "notes": "Biorythmes (physique/émotionnel/intellectuel), rubrique « Découvrir » et export du thème complet en PDF. En 9 langues.",
+  "version": "0.15.1",
+  "url": "https://github.com/jdviallat/numerocoon/releases/download/v0.15.1/Numerocoon-0.15.1.apk",
+  "notes": "La mise à jour se télécharge et s'installe maintenant directement depuis l'application (après cette version, plus besoin du navigateur).",
   "obligatoire": false,
   "minVersion": "0.1.0"
 }

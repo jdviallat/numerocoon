@@ -6,6 +6,14 @@ sans publicité, et disponible en **9 langues** (fr, en, de, it, pt, es, sv, no,
 
 ---
 
+## [0.15.1] — Mises à jour plus simples (version APK direct)
+
+- La version installée **hors Google Play** (APK en téléchargement direct)
+  **télécharge et installe désormais la mise à jour directement depuis
+  l'application** : plus besoin de passer par le navigateur.
+- L'installateur Android s'ouvre automatiquement une fois le téléchargement
+  terminé — il suffit de confirmer l'installation.
+
 ## [0.15.0] — Biorythmes, Découvrir & rapport PDF
 
 - **Biorythmes** : vos trois cycles du jour (physique, émotionnel, intellectuel)
