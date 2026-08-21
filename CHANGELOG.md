@@ -6,6 +6,20 @@ sans publicité, et disponible en **9 langues** (fr, en, de, it, pt, es, sv, no,
 
 ---
 
+## [0.16.0] — Carte à partager, roue, prévisions & plus
+
+- 🎴 **Carte du jour à partager** : une belle image de votre journée (nombre, signe,
+  lune) prête à envoyer à vos proches.
+- 🪐 **Roue du thème** : vos douze signes en cercle, avec la position de votre Soleil
+  et de votre Ascendant.
+- 📅 **Prévisions des 12 prochains mois** : la vibration de chaque mois et ses jours
+  porteurs, pour vous projeter.
+- 📈 **Tendances du journal** : l'évolution de la résonance de vos journées dans le temps.
+- 💾 **Sauvegarde & restauration** : exportez vos données dans un fichier et
+  restaurez-les sur un autre appareil (tout reste local).
+- 🔠 **Taille du texte réglable** et 🧭 **tour de bienvenue** au premier lancement.
+- Le tout dans les **9 langues**.
+
 ## [0.15.1] — Mises à jour plus simples (version APK direct)
 
 - La version installée **hors Google Play** (APK en téléchargement direct)

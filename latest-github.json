@@ -1,7 +1,7 @@
 {
-  "version": "0.15.1",
-  "url": "https://github.com/jdviallat/numerocoon/releases/download/v0.15.1/Numerocoon-0.15.1.apk",
-  "notes": "La mise à jour se télécharge et s'installe maintenant directement depuis l'application (après cette version, plus besoin du navigateur).",
+  "version": "0.16.0",
+  "url": "https://github.com/jdviallat/numerocoon/releases/download/v0.16.0/Numerocoon-0.16.0.apk",
+  "notes": "Nouveautés : carte du jour à partager, roue du thème, prévisions sur 12 mois, tendances du journal, sauvegarde/restauration, taille du texte réglable et tour de bienvenue.",
   "obligatoire": false,
   "minVersion": "0.1.0"
 }
