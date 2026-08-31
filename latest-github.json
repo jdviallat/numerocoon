@@ -1,7 +1,7 @@
 {
-  "version": "0.17.0",
-  "url": "https://github.com/jdviallat/numerocoon/releases/download/v0.17.0/Numerocoon-0.17.0.apk",
-  "notes": "Nouveau : widget écran d'accueil (Android) avec votre nombre du jour. Ajoutez-le en restant appuyé sur l'écran d'accueil > Widgets > Numerocoon.",
+  "version": "0.18.0",
+  "url": "https://github.com/jdviallat/numerocoon/releases/download/v0.18.0/Numerocoon-0.18.0.apk",
+  "notes": "Nouveautés : calendrier numérologique du mois, « ciel du moment » (Lune, Mercure rétrograde, nombre universel), et numérologie de votre animal de compagnie.",
   "obligatoire": false,
   "minVersion": "0.1.0"
 }

@@ -6,6 +6,16 @@ sans publicité, et disponible en **9 langues** (fr, en, de, it, pt, es, sv, no,
 
 ---
 
+## [0.18.0] — Calendrier, ciel du moment & animaux
+
+- 🗓️ **Calendrier numérologique** : votre mois en un coup d'œil, chaque jour coloré
+  selon sa vibration (porteur, repos, nombre maître).
+- 🌌 **Le ciel du moment** : la phase et le signe de la Lune, l'état de Mercure
+  (rétrograde ou direct) et le nombre universel du jour. Calcul indicatif, hors-ligne.
+- 🐾 **Numérologie de votre animal de compagnie** : le nom de votre compagnon
+  révèle son petit caractère (un clin d'œil, jamais un avis vétérinaire).
+- Le tout dans les **9 langues**.
+
 ## [0.17.0] — Widget écran d'accueil
 
 - 📱 **Widget Android** : posez votre **nombre du jour** directement sur l'écran
