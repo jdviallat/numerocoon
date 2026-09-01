@@ -1,7 +1,7 @@
 {
-  "version": "0.19.1",
-  "url": "https://github.com/jdviallat/numerocoon/releases/download/v0.19.1/Numerocoon-0.19.1.apk",
-  "notes": "Profils enrichis : photo pour chaque profil, fiche complète des personnes (signe, ascendant, nombres) et fiche numérologique des animaux, avec leur date.",
+  "version": "0.20.0",
+  "url": "https://github.com/jdviallat/numerocoon/releases/download/v0.20.0/Numerocoon-0.20.0.apk",
+  "notes": "Nouvelle icône, et un guide d'utilisation complet intégré (accessible hors ligne depuis les Réglages) qui explique chaque fonction et où la trouver.",
   "obligatoire": false,
   "minVersion": "0.1.0"
 }

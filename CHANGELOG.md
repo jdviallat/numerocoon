@@ -6,6 +6,12 @@ sans publicité, et disponible en **9 langues** (fr, en, de, it, pt, es, sv, no,
 
 ---
 
+## [0.20.0] — Nouvelle icône & guide intégré
+
+- 🌙 **Nouvelle icône** aux couleurs de la gamme (médaillon d'or, croissant de lune et étoiles).
+- 📖 **Guide d'utilisation intégré** : toutes les fonctions expliquées, et où les trouver,
+  **accessible hors ligne** depuis la roue des Réglages. En 9 langues.
+
 ## [0.19.1] — Fiches de profil & photos
 
 - 🖼️ **Photo** sur chaque profil (personne ou animal).
