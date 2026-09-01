@@ -6,6 +6,16 @@ sans publicité, et disponible en **9 langues** (fr, en, de, it, pt, es, sv, no,
 
 ---
 
+## [0.19.0] — Profils & entourage
+
+- 👪 **Mes profils** : enregistrez plusieurs personnes (conjoint·e, enfant, parent,
+  frère/sœur, ami·e, collègue…) et **ajoutez, modifiez ou supprimez**-les à volonté.
+- ❤️ **Liste de compatibilité classée** : vos proches triés par score de compatibilité,
+  d'un coup d'œil.
+- 🐾 **Profils d'animaux** : enregistrez vos compagnons et retrouvez leur numérologie
+  sur une page dédiée (sans horoscope, adaptée aux animaux).
+- Le tout dans les 9 langues.
+
 ## [0.18.0] — Calendrier, ciel du moment & animaux
 
 - 🗓️ **Calendrier numérologique** : votre mois en un coup d'œil, chaque jour coloré

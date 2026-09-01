@@ -1,7 +1,7 @@
 {
-  "version": "0.18.0",
-  "url": "https://github.com/jdviallat/numerocoon/releases/download/v0.18.0/Numerocoon-0.18.0.apk",
-  "notes": "Nouveautés : calendrier numérologique du mois, « ciel du moment » (Lune, Mercure rétrograde, nombre universel), et numérologie de votre animal de compagnie.",
+  "version": "0.19.0",
+  "url": "https://github.com/jdviallat/numerocoon/releases/download/v0.19.0/Numerocoon-0.19.0.apk",
+  "notes": "Gérez plusieurs profils (conjoint, enfants, famille…) : ajout, édition, suppression, liste de compatibilité classée. Et des profils pour vos animaux, avec leur numérologie.",
   "obligatoire": false,
   "minVersion": "0.1.0"
 }
