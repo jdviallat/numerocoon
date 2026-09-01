@@ -1,7 +1,7 @@
 {
-  "version": "0.21.0",
+  "version": "0.21.1",
   "url": "https://play.google.com/store/apps/details?id=com.bengacoon.numerocoon",
-  "notes": "Nouveautés : choisissez l'apparence de l'app — thème clair, sombre ou selon votre téléphone. Et l'interface est désormais entièrement traduite dans les 9 langues, jusqu'aux moindres réglages.",
+  "notes": "L'app s'ouvre dans la langue de votre téléphone dès le 1er lancement (+ choix manuel). Thème clair/sombre/système et interface 9 langues (0.21.0).",
   "obligatoire": false,
   "minVersion": "0.1.0"
 }
