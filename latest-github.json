@@ -1,7 +1,7 @@
 {
-  "version": "0.20.1",
-  "url": "https://github.com/jdviallat/numerocoon/releases/download/v0.20.1/Numerocoon-0.20.1.apk",
-  "notes": "Fiche des animaux enrichie : forces, besoins au quotidien, place dans la famille, un mot doux et l'énergie du jour de votre compagnon.",
+  "version": "0.21.0",
+  "url": "https://github.com/jdviallat/numerocoon/releases/download/v0.21.0/Numerocoon-0.21.0.apk",
+  "notes": "Nouveautés : choisissez l'apparence de l'app — thème clair, sombre ou selon votre téléphone. Et l'interface est désormais entièrement traduite dans les 9 langues, jusqu'aux moindres réglages.",
   "obligatoire": false,
   "minVersion": "0.1.0"
 }
