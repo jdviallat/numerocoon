@@ -1,7 +1,7 @@
 {
-  "version": "0.20.0",
+  "version": "0.20.1",
   "url": "https://play.google.com/store/apps/details?id=com.bengacoon.numerocoon",
-  "notes": "Nouvelle icône, et un guide d'utilisation complet intégré (accessible hors ligne depuis les Réglages) qui explique chaque fonction et où la trouver.",
+  "notes": "Fiche des animaux enrichie : forces, besoins au quotidien, place dans la famille, un mot doux et l'énergie du jour de votre compagnon.",
   "obligatoire": false,
   "minVersion": "0.1.0"
 }

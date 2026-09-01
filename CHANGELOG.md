@@ -6,6 +6,11 @@ sans publicité, et disponible en **9 langues** (fr, en, de, it, pt, es, sv, no,
 
 ---
 
+## [0.20.1] — Fiche animale enrichie
+
+- 🐾 La fiche d'un animal est beaucoup plus complète : ses **forces**, **ses besoins au
+  quotidien**, sa **place dans la famille**, un **mot doux** et son **énergie du jour**.
+
 ## [0.20.0] — Nouvelle icône & guide intégré
 
 - 🌙 **Nouvelle icône** aux couleurs de la gamme (médaillon d'or, croissant de lune et étoiles).
