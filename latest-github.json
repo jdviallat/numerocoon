@@ -1,7 +1,7 @@
 {
-  "version": "0.19.0",
-  "url": "https://github.com/jdviallat/numerocoon/releases/download/v0.19.0/Numerocoon-0.19.0.apk",
-  "notes": "Gérez plusieurs profils (conjoint, enfants, famille…) : ajout, édition, suppression, liste de compatibilité classée. Et des profils pour vos animaux, avec leur numérologie.",
+  "version": "0.19.1",
+  "url": "https://github.com/jdviallat/numerocoon/releases/download/v0.19.1/Numerocoon-0.19.1.apk",
+  "notes": "Profils enrichis : photo pour chaque profil, fiche complète des personnes (signe, ascendant, nombres) et fiche numérologique des animaux, avec leur date.",
   "obligatoire": false,
   "minVersion": "0.1.0"
 }

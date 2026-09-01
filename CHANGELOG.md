@@ -6,6 +6,14 @@ sans publicité, et disponible en **9 langues** (fr, en, de, it, pt, es, sv, no,
 
 ---
 
+## [0.19.1] — Fiches de profil & photos
+
+- 🖼️ **Photo** sur chaque profil (personne ou animal).
+- 👤 **Fiche d'une personne** : ouvrez le profil d'un proche pour voir son thème —
+  signe solaire, ascendant, chemin de vie et ses nombres — puis accédez à votre
+  compatibilité.
+- 🐾 **Fiche d'un animal** : sa numérologie complète, avec sa date de naissance/adoption.
+
 ## [0.19.0] — Profils & entourage
 
 - 👪 **Mes profils** : enregistrez plusieurs personnes (conjoint·e, enfant, parent,
